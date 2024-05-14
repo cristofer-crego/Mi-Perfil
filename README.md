@@ -25,7 +25,7 @@ Mi motivación radica en el impacto positivo que puedo generar a través de la t
 
                            
 
-⚡ Que tenologias uso?
+⚡ Que tegnologias uso?
 
 El bootcamp de Henry ha sido una experiencia transformadora que me ha permitido adquirir un conjunto sólido de habilidades y conocimientos en el ámbito de la programación. Las principales tecnologías que manejo y en las que me he especializado incluyen:
 
